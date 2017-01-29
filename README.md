@@ -10,7 +10,12 @@ People go to supermarkets to buy home needs every day. but they find it difficul
 ## 1. Desktop Application - Shopping Assistant
 This is a simple desktop application which takes a picture and allow the super market owner to select and name the place of goods in the shop. this process finishes providing 2 files. one is a SQLite .db file and another one is the layout picture of the building. Then the owner has to submit those two files to the server to make them visible to all the android apps.
 
+
 ## 2. Server
+This is a server application to read the request from mobile phone and reply with the relevant layout and db file. This has been programmed using Python Socket programming
+
+## 3. Mobile Application
+
 
 
 
