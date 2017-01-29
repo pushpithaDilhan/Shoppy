@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Shoppy</string>
+    <string name="title_activity_create_list">New List</string>
+    <string name="button1">NEW LIST</string>
+    <string name="button2">MY LISTS</string>
+    <string name="button3">MAP</string>
+    <string name="button4">SHOPS</string>
+    <string name="title_activity_dcchooser">DCchooser</string>
+    <string-array name="districts">
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Colombo</item>
+        <item>Kaluthara</item>
+        <item>Anuradhapura</item>
+        <item>Polonnaruwa</item>
+        <item>Rathnapura</item>
+        <item>Hambanthota</item>
+        <item>Ampara</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Book Shop</item>
+        <item>Super Market</item>
+        <item>Hardware</item>
+        <item>Electronic</item>
+    </string-array>
+    <string name="title_activity_est">est</string>
+    <string name="fragment">Name your list</string>
+    <string name="frgmntsave">Save</string>
+    <string name="frmncncl">Cancel</string>
+    <string name="title_activity_activitychoose">Activitychoose</string>
+</resources>
